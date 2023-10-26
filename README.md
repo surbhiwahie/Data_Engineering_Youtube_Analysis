@@ -33,3 +33,13 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 <img width="1139" alt="Screen Shot 2023-10-26 at 09 40 11" src="https://github.com/surbhiwahie/Data_Engineering_Youtube_Analysis/assets/24772688/e0844ac0-6d0d-445e-af70-408560468230">
 
+
+# Data lake:
+
+<img width="893" alt="Screen Shot 2023-10-26 at 10 18 15" src="https://github.com/surbhiwahie/Data_Engineering_Youtube_Analysis/assets/24772688/9e523614-dd8d-4166-938e-523b5daeaa1a">
+
+# AWS Glue Catalog
+<img width="815" alt="Screen Shot 2023-10-26 at 10 18 36" src="https://github.com/surbhiwahie/Data_Engineering_Youtube_Analysis/assets/24772688/559a2372-9b8d-41f9-b630-ccad3cd221ad">
+
+
+
