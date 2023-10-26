@@ -30,7 +30,6 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 **Architecture Diagram:**
 
-<img width="1161" alt="Screen Shot 2023-10-26 at 09 27 18" src="https://github.com/surbhiwahie/Data_Engineering_Youtube_Analysis/assets/24772688/0a3231a8-86a8-4bfb-a741-7aea653df540">
 
-
+<img width="1139" alt="Screen Shot 2023-10-26 at 09 40 11" src="https://github.com/surbhiwahie/Data_Engineering_Youtube_Analysis/assets/24772688/e0844ac0-6d0d-445e-af70-408560468230">
 
