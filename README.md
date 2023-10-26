@@ -43,6 +43,7 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 <img width="799" alt="Screen Shot 2023-10-26 at 10 25 40" src="https://github.com/surbhiwahie/Data_Engineering_Youtube_Analysis/assets/24772688/1a062b19-cd03-44ef-b1b3-8b06a305eae3">
 
 
+# Data Cleaning 
 
-
+<img width="1234" alt="Screen Shot 2023-10-26 at 11 01 44" src="https://github.com/surbhiwahie/Data_Engineering_Youtube_Analysis/assets/24772688/3a886ca0-ba85-4147-be7e-863576ac65ed">
 
