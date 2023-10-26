@@ -2,9 +2,6 @@
 Data Engineering Youtube Analysis Project
 
 
-<img width="944" alt="Screen Shot 2023-10-26 at 09 20 01" src="https://github.com/surbhiwahie/Data_Engineering_Youtube_Analysis/assets/24772688/cb9ea4a8-c9c3-453d-a1a1-767355b6f928">
-
-
 **Overview:**
 This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics.
 
@@ -29,3 +26,11 @@ This project aims to securely manage, streamline, and perform analysis on the st
 This Kaggle dataset contains statistics (CSV files) on daily popular YouTube videos over the course of many months. There are up to 200 trending videos published every day for many locations. The data for each region is in its own file. The video title, channel title, publication time, tags, views, likes and dislikes, description, and comment count are among the items included in the data. A category_id field, which differs by area, is also included in the JSON file linked to the region.
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
+
+
+**Architecture Diagram:**
+
+<img width="1161" alt="Screen Shot 2023-10-26 at 09 27 18" src="https://github.com/surbhiwahie/Data_Engineering_Youtube_Analysis/assets/24772688/0a3231a8-86a8-4bfb-a741-7aea653df540">
+
+
+
