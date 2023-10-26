@@ -40,5 +40,9 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 # AWS Glue Catalog
 <img width="815" alt="Screen Shot 2023-10-26 at 10 18 36" src="https://github.com/surbhiwahie/Data_Engineering_Youtube_Analysis/assets/24772688/559a2372-9b8d-41f9-b630-ccad3cd221ad">
 
+<img width="799" alt="Screen Shot 2023-10-26 at 10 25 40" src="https://github.com/surbhiwahie/Data_Engineering_Youtube_Analysis/assets/24772688/1a062b19-cd03-44ef-b1b3-8b06a305eae3">
+
+
+
 
 
